@@ -1,0 +1,24 @@
+{
+  "id": "org.granblue.anime",
+  "version": "1.0.0",
+  "name": "Granblue Fantasy Anime",
+  "description": "Granblue Fantasy Series",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "granbluecatalog",
+      "name": "Granblue Fantasy"
+    }
+  ],
+  "idPrefixes": [
+    "gbf"
+  ]
+}
