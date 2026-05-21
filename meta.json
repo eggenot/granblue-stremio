@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "gbf1",
+    "type": "series",
+    "name": "Granblue Fantasy The Animation",
+    "poster": "https://gbf.wiki/images/4/4f/Gbfwikilogo.png",
+    "description": "Granblue Fantasy Season 1",
+    "videos": [
+      {
+        "id": "gbf1:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "gbf1:1:2",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2
+      }
+    ]
+  }
+}
